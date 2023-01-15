@@ -1,0 +1,10 @@
+.checkmark {
+    width: 40px;
+    height: 30px;
+    border-radius: 50%;
+    display: block;
+    stroke-width: 6px;
+    stroke: black;
+    stroke-miterlimit: 10;
+    stroke-dashoffset: 0;
+}

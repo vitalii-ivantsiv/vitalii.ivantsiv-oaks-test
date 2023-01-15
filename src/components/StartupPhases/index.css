@@ -1,0 +1,17 @@
+.startup-phases {
+    background-color: #80808052;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+    max-width: 20%;
+    padding: 1.5%;
+}
+
+.startup-phases .label {
+    margin-top: 0;
+}
+
+.startup-phases .phase {
+    padding: 5% 10%;
+    background-color: white;
+}
